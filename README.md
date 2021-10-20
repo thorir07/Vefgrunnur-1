@@ -35,7 +35,7 @@ HTML og CSS fyrir grunnskólanemendur
 ## Námsmat
 
 | Verkefni | Vægi |
-| --- | --- |
+| ------ | ------ |
 | Verkefni 1 | 14% |
 | Verkefni 2 | 14% |
 | Verkefni 3 | 14% |
