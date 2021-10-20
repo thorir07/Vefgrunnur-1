@@ -3,8 +3,10 @@ HTML og CSS fyrir grunnskólanemendur
 
 ## Námsáætlun
 
-* VIKA 1
-  * Verkefni 1. Visual Studio Code og Github
+* VIKA 1. Verkefni 1.
+  * Github nýskráning
+  * Verkefnamappa afrituð (_Fork_) á Github reikningin
+  * Visual Studio Code 
 * VIKA 2
   * Verkefni 2. HTML & CSS, tenglar innan síðu, vefs og netsins.
 * VIKA 3
@@ -20,8 +22,8 @@ HTML og CSS fyrir grunnskólanemendur
 
 ## Kennslufyrirkomulag
 
-Nemendur þurfa að vera með Github reikning (user account)
-Sjá nánar hér https://github.com/vefgrunnur/21H/wiki/N%C3%BDskr%C3%A1ning-%C3%A1-Github
+* [Nemendur þurfa að vera með Github reikning (_user account_)](https://github.com/)
+
 
 ## Bjargir
 [Vefgrunnur-Wiki](https://github.com/GJG/Vefgrunnur/wiki)
