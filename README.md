@@ -34,7 +34,16 @@ HTML og CSS fyrir grunnskólanemendur
 
 ## Námsmat
 
-|
+| Verkefni | Vægi |
+| --- | --- |
+| Verkefni 1 | 14% |
+| Verkefni 2 | 14% |
+| Verkefni 3 | 14% |
+| Verkefni 4 | 14% |
+| Verkefni 5 | 14% |
+| Verkefni 6 | 14% |
+| Verkefni 7 | 16% |
+| Samtals | **100%** |
 
 ## Bjargir
 [Vefgrunnur-Wiki](https://github.com/GJG/Vefgrunnur/wiki)
