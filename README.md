@@ -1,6 +1,8 @@
 # Vefgrunnur
 HTML og CSS fyrir grunnskólanemendur
 
+#### Athugasemd. Námsáætlun og verkefnalýsingar eru enn í vinnslu.
+
 ## Námsáætlun
 
 * VIKA 1. Verkefni 1.
