@@ -13,11 +13,10 @@ HTML og CSS fyrir grunnskólanemendur
 3. Skipulag vefsíðu 
    * ```display:flex```
    * ```display:grid``` 
-   * Skjáviðmið ```@media and (min-width:...)``` 
 4. Myndvinnsla
    * myndir unnar í Photopea fyrir vefsíðu 
    * myndir settar í vefsíðu
-   * myndir aðlagast mismunandi skjástærðum
+   * Skjáviðmið ```@media and (min-width:...)```  myndir aðlagast mismunandi skjástærðum
 5. Leturval og margmiðlunarefni
    * Leturgerð valin frá [fonts.google.com](https://fonts.google.com/)
    * Hljóðskrá &lt;audio&gt; 
