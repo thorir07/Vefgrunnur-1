@@ -1,31 +1,40 @@
 # Vefgrunnur
 HTML og CSS fyrir grunnskólanemendur
 
-#### Athugasemd. Námsáætlun og verkefnalýsingar eru enn í vinnslu.
-
 ## Námsáætlun
 
-* VIKA 1. Verkefni 1.
+1. HTML 
+  * Kynning á Visual Studio Code 
+  * HTML vefsíða búin til
+2. CSS stílsíða
+  * CSS stílsíða tengd við HTML vefsíðu
+  * Stílar 
+  * Box módelið
+3. Skipulag vefsíðu 
+  * ```display:flex```
+  * ```display:grid``` 
+4. Sveigjanleg hönnun 
+   * Skjáviðmið ```@media and (min-width:...)```
+5. Myndvinnsla
+  * myndir unnar í Photopea fyrir vefsíðu 
+6. Leturgerð og margmiðlunarefni
+  * hljóðskrá 
+  * video (_Youtube_)
+  * kort
+7. Vefsíða á internetinu
   * Github nýskráning
   * Verkefnageymsla (_Repository_) búin til í Github
-  * Visual Studio Code 
-* VIKA 2
-  * Verkefni 2. HTML & CSS, tenglar innan síðu, vefs og netsins.
-* VIKA 3
-  * Verkefni 3. Skipulag vefsíðu Grid + Flex
-* VIKA 4
-  * Verkefni 4. Sveigjanleg hönnun og innsetninging mynda RWD
-* VIKA 5
-  * Verkefni 5. Photopea Myndvinnsla 
-* VIKA 6
-  * Verkefni 6. Innsetning hljóðskrá og video
-* VIKA 7
-  * Verkefni 7. Vefsíða á internetinu
+  * Vefsíða birt á github.io
 
 ## Kennslufyrirkomulag
 
-* [Nemendur þurfa að vera með Github reikning (_user account_)](https://github.com/)
+* Nemendur vinna verkefnin í kennslutímum
+* Verkefnum er skilað í **INNU/Námsk - Forritun/Verkefni**
+* Einkunn er gefin fyrir verkefnin í Innu
 
+## Námsmat
+
+|
 
 ## Bjargir
 [Vefgrunnur-Wiki](https://github.com/GJG/Vefgrunnur/wiki)
