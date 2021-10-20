@@ -15,6 +15,8 @@ HTML og CSS fyrir grunnskólanemendur
   * Verkefni 5. Photopea Myndvinnsla 
 * VIKA 6
   * Verkefni 6. Innsetning hljóðskrá og video
+* VIKA 7
+  * Verkefni 7. Vefsíða á internetinu
 
 ## Kennslufyrirkomulag
 
@@ -23,4 +25,3 @@ Sjá nánar hér https://github.com/vefgrunnur/21H/wiki/N%C3%BDskr%C3%A1ning-%C3
 
 ## Bjargir
 [Vefgrunnur-Wiki](https://github.com/GJG/Vefgrunnur/wiki)
-
