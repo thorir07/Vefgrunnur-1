@@ -7,7 +7,7 @@ HTML og CSS fyrir grunnskólanemendur
    * Kynning á Visual Studio Code 
    * HTML vefsíða búin til
 2. CSS stílsíða
-   * CSS stílsíða tengd við HTML vefsíðu
+   * Stílsíða tengd við vefsíðu
    * Stílar 
    * Box módelið
 3. Skipulag vefsíðu 
@@ -16,9 +16,11 @@ HTML og CSS fyrir grunnskólanemendur
    * Skjáviðmið ```@media and (min-width:...)``` 
 4. Myndvinnsla
    * myndir unnar í Photopea fyrir vefsíðu 
+   * myndir settar í vefsíðu
+   * myndir aðlagast mismunandi skjástærðum
 5. Leturval og margmiðlunarefni
    * Leturgerð valin frá [fonts.google.com](https://fonts.google.com/)
-   * Hljóðskrá &lt;audio&gt;
+   * Hljóðskrá &lt;audio&gt; 
    * kvikmynd &lt;video&gt; (_Youtube_)
    * kort
 6. Vefforritun

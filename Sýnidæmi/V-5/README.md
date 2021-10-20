@@ -1,4 +1,4 @@
-# Litir og myndir í bakgrunni vefsíðu
+# Myndir í bakgrunni vefsíðu
 
 ```CSS
 
