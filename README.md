@@ -5,7 +5,7 @@ HTML og CSS fyrir grunnskólanemendur
 
 * VIKA 1. Verkefni 1.
   * Github nýskráning
-  * Verkefnamappa afrituð (_Fork_) á Github reikningin
+  * Verkefnageymsla (_Repository_) búin til í Github
   * Visual Studio Code 
 * VIKA 2
   * Verkefni 2. HTML & CSS, tenglar innan síðu, vefs og netsins.
