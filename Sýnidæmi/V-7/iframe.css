@@ -1,0 +1,47 @@
+/* Rétt hlutfall youtube > iframe  (.gluggi) 
+
+   óskuð breidd deilt í upphaflega breidd = n% 
+
+   til að finna rétta hæð : n%  * upphafleg hæð 
+*/
+
+/* 20em */
+.gluggi {
+    width:15em; /*240px */ 
+    height:8.4em; /*135px;*/ 
+  }
+
+@media screen and (min-width: 25em) {
+    .gluggi {
+      width:23em; /*368px;*/ 
+      height:13em; /*207px;*/ 
+    }
+ }
+
+@media screen and (min-width: 30em) {
+    .gluggi {
+     width:28em;     /*448px*/
+     height:15.75em; /*252px;*/ 
+   }
+ }
+
+@media screen and (min-width: 48em) {
+    .gluggi {
+      width:35em;     /*560px;*/
+      height:19.7em; /*315px;*/
+    }
+ }
+
+@media screen and (min-width:60em){
+  .gluggi {
+    width:37.75em; /*700px;*/ 
+    height:24.6em; /*394px;*/ 
+  }
+}
+
+@media screen and (min-width: 80em) {
+    .gluggi {
+      width:50em; /*800px;*/ 
+      height:28.125em; /*450px;*/ 
+    }
+  }
