@@ -29,7 +29,7 @@ HTML og CSS fyrir grunnskólanemendur
 ## Kennslufyrirkomulag
 
 * Nemendur vinna verkefnin í kennslutímum
-* Verkefnum er skilað í **INNU/Námsk - Forritun/Verkefni**
+* Verkefnum er skilað í **Eigin Github geymslu (_Repository_) - Vefgrunnur/**
 * Einkunn er gefin fyrir verkefnin í Innu
 
 ## Námsmat
