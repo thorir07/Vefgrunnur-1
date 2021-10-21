@@ -24,29 +24,26 @@ HTML og CSS fyrir grunnskólanemendur
    * kort
 6. Vefforritun
    * Inngangur að JavaScript forritun
-7. Vefsíða á internetinu
-   * Github.com (nýskráning)
-   * Verkefnageymsla (_Repository_) búin til í Github
-   * Vefsíða birt á github.io
+7. Vefsíða birt á github.io
 
 ## Kennslufyrirkomulag
 
 * Nemendur vinna verkefnin í kennslutímum
-* Verkefnum er skilað í **INNU/Námsk - Forritun/Verkefni**
+* Verkefnum er skilað í **Eigin Github geymslu (_Repository_) - Vefgrunnur/**
 * Einkunn er gefin fyrir verkefnin í Innu
 
 ## Námsmat
 
-| Verkefni | Vægi |
-| ------ | ------ |
-| Verkefni 1 | 14% |
-| Verkefni 2 | 14% |
-| Verkefni 3 | 14% |
-| Verkefni 4 | 14% |
-| Verkefni 5 | 14% |
-| Verkefni 6 | 14% |
-| Verkefni 7 | 16% |
-| Samtals | **100%** |
+|Vika | Verkefni | Vægi |
+| ------ |  ------ | ------ |
+|Vika 1.| Verkefni 1 | 14% |
+|Vika 2.| Verkefni 2 | 14% |
+|Vika 3.| Verkefni 3 | 14% |
+|Vika 4.| Verkefni 4 | 14% |
+|Vika 5.| Verkefni 5 | 14% |
+|Vika 6.| Verkefni 6 | 14% |
+|Vika 7.| Verkefni 7 | 16% |
+| | Samtals | **100%** |
 
 ## Bjargir
 [Vefgrunnur-Wiki](https://github.com/GJG/Vefgrunnur/wiki)
