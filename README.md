@@ -22,9 +22,9 @@ HTML og CSS fyrir grunnskólanemendur
    * Hljóðskrá &lt;audio&gt; 
    * kvikmynd &lt;video&gt; (_Youtube_)
    * kort
+   * Vefsíða birt á github.io/[nafn notanda]/
 6. Vefforritun
-   * Inngangur að JavaScript forritun
-7. Vefsíða birt á github.io
+
 
 ## Kennslufyrirkomulag
 
@@ -36,13 +36,12 @@ HTML og CSS fyrir grunnskólanemendur
 
 |Vika | Verkefni | Vægi |
 | ------ |  ------ | ------ |
-|Vika 1.| Verkefni 1 | 14% |
-|Vika 2.| Verkefni 2 | 14% |
-|Vika 3.| Verkefni 3 | 14% |
-|Vika 4.| Verkefni 4 | 14% |
-|Vika 5.| Verkefni 5 | 14% |
-|Vika 6.| Verkefni 6 | 14% |
-|Vika 7.| Verkefni 7 | 16% |
+|Vika 1.| Verkefni 1 | 16% |
+|Vika 2.| Verkefni 2 | 16% |
+|Vika 3.| Verkefni 3 | 16% |
+|Vika 4.| Verkefni 4 | 16% |
+|Vika 5.| Verkefni 5 | 18% |
+|Vika 6.| Verkefni 6 | 16% |
 | | Samtals | **100%** |
 
 ## Bjargir
