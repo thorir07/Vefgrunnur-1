@@ -40,7 +40,7 @@ HTML og CSS fyrir grunnskólanemendur
 |Vika 2.| Verkefni 2 | 16% |
 |Vika 3.| Verkefni 3 | 16% |
 |Vika 4.| Verkefni 4 | 16% |
-|Vika 5.| Verkefni 5 | 18% |
+|Vika 5.| Verkefni 5 | 20% |
 |Vika 6.| Verkefni 6 | 16% |
 | | Samtals | **100%** |
 
