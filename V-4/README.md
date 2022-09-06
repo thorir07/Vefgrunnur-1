@@ -12,7 +12,7 @@ Skoðaðu hvernig val á leturgerð hefur áhrif á upplifun notandans.
 * Passar leturgerðin sem þú velur, málefninu?  
 * Hentar litaþemað sem þú hefur valið, málefninu?
 
-[Dæmi um grein þar sem aðaláherslan er á leturnotkun]()
+[Dæmi um grein þar sem aðaláherslan er á leturnotkun](/V-4/img/Readme.md)
 
 ---
 
