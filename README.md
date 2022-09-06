@@ -7,25 +7,25 @@
    * [Git og Github](https://github.com/gjg/vefgrunnur/wiki/N%C3%BDskr%C3%A1ning-%C3%A1-Github)
    * [Uppsetning á Visual Studio Code](https://github.com/gjg/vefgrunnur/wiki/Undirbuningur)
    * [Vefþróunarsvæði sett á tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)    
-2. [HTML og CSS](V-2/README.md) 
+2. [HTML og CSS](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/README.md) 
    * HTML vefsíða búin til
    * Stílsíða tengd við vefsíðu
    * Skipulag vefsíðu 
      * ```display:flex```
      * ```display:grid``` 
-3. [Myndvinnsla](V-3/README.md)
+3. [Myndvinnsla](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-3/README.md)
    * myndir unnar í Photopea fyrir vefsíðu
    * myndir settar í vefsíðu
    * Skjáviðmið ```@media and (min-width:...)```  myndir aðlagast mismunandi skjástærðum
-4. [Leturval og margmiðlunarefni](V-4/README.md)
+4. [Leturval og margmiðlunarefni](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-4/README.md)
    * Leturgerð valin frá [fonts.google.com](https://fonts.google.com/)
    * Hljóðskrá &lt;audio&gt; 
    * kvikmynd &lt;video&gt; (_Youtube_)
    * kort
-5. [JavaScript] kynning](V-5/README.md)
+5. [JavaScript] kynning](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-5/README.md)
     * Hvað er JS?
     * JS æfingar
-6. [Uppsetnig vefs á Internetið](V-6/README.md)
+6. [Uppsetnig vefs á Internetið](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-6/README.md)
    * Vefsíða birt á [user].github.io/
    * kynning á fljótandi hönnun með Jekill
 
