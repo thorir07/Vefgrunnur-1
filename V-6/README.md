@@ -20,7 +20,6 @@ Github vefsíður eru "Static" og bjóða ekki upp á neina gagnvirkni við note
 
 <hr>
 
-Lokaverkefni sem aðrir nemendur hafa gert í VEFÞ1VG
+Lokaverkefni sem nemendur á tölvubraut hafa gert í VEFÞ1VG
 
 * [Tölvuleikjasagan](https://vefgrunnur.github.io/tolvuleikir/2020.html)
-
