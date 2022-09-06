@@ -1,6 +1,10 @@
-# Verkefni 4 - í vinnslu
+# Verkefni 4 
 
 ### Leturgerð – Font family
+
+Finndu þér málefni sem þú villt fjalla um, það má vera hvað sem er* td getur þú farið á Vísindavef HÍ til að finna umfjöllunarefni. 
+
+*Athugið að kennari þarf að samþykkja greinina.  
 
 Sækið leturgerðir á Google font vefsíðuna .  Setjið mismunandi stíla á fyrirsögn, millifyrirsagnir og meginmálsletur, tengla, lista.  Leturgerð og litaval á að hæfa efnisinnihaldi vefsíðunnar. Vefsíðan á að vera sveigjanleg, letur og myndir eiga að birtast eðlilega í öllum skjástærðum. 
 Skoðaðu hvernig val á leturgerð hefur áhrif á upplifun notandans.  
@@ -8,6 +12,7 @@ Skoðaðu hvernig val á leturgerð hefur áhrif á upplifun notandans.
 * Passar leturgerðin sem þú velur, málefninu?  
 * Hentar litaþemað sem þú hefur valið, málefninu?
 
+[Dæmi um grein þar sem aðaláherslan er á leturnotkun]()
 
 ---
 
@@ -29,5 +34,7 @@ body {
     font:italic bold 100%/120% Georgia, Times, serif;
     /*font-style, -weight, -size/-lineheight -family */
 }
+
+
 
 ```
