@@ -5,7 +5,8 @@
 
 1. Uppsetning vefþróunarsvæðis
    * Git og Github
-   * Uppsetning á Visual Studio Code    
+   * Uppsetning á Visual Studio Code
+   * Vefþróunarsvæði sett á tölvu    
 2. HTML og CSS 
    * HTML vefsíða búin til
    * Stílsíða tengd við vefsíðu
