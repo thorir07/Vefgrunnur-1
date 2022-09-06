@@ -1,3 +1,58 @@
+# Verkefni 3
+
+### Myndvinnsla og innsetning mynda í vefsíðu
+
+Í **images** möppunni eru nokkrar myndir sem á að setja í vefsíðu eins og sýnt er á næstu síðu. Það þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu þjappaðar í  réttri stærð og fljótar að hlaðast inn á vefsíðuna. Það má nota aðrar myndir ef þú villt.
+
+### 3.1 Stór forsíðumynd 
+
+Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
+Viðmið: [0 - 30em] – [30 - 48em] – [48 - 80em] – [80em +]
+
+### 3.2 Myndaröð 
+6 myndir eru vistaðar í sömu stærð og þeim raðað mismunandi upp í vefsíðu eftir breidd skjásins
+
+---
+
+#### Myndir í bakgrunni vefsíðu
+
+```CSS
+
+body {
+    background-color: #6ff;
+    background-image:url(flott-logo.svg);
+    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
+    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
+    background-position: center middle;
+    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
+    background-attachment: fixed; /* scroll */	
+}
+body {			
+	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
+            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
+
+}
+
+```
+
+#### Myndvinnsluforrit
+
+* Photopea  er forrit (app) sem keyrir í vafra.
+* Myndir skornar:  Toolbar -> Crop Tool
+* Myndir settar í rétta stærð: Image -> Canvas size.
+* Þjöppun fyrir vef  í Photopea  -> Export -> .jpg eða .png
+* *Gimp er myndvinnsluforrit sem hægt er að hlaða inn í tölvuna þína ókeypis.
+* Myndir skornar: Tools -> Transform Tools -> Crop
+* Myndir settar í rétta stærð: Image -> scale image.
+
+* Vefmyndir geta verið þjappaðar saman í .jpg (kb). 
+* Myndir í .png formati geta verið með gagnsæjan (transparent) bakgrunn og 5% þjöppun
+* Myndir í .gif formati geta verið með gagnsæjan (transparent) bakgrunn og 0% þjöppun
+* Myndir sem settar eru á vefsíðuna eiga ekki að vera stærri en stærðin sem myndin birtist í tölvuksjá (max 2000px breidd). Með <picture> taginu er hægt að sortera myndir eftir skjábreidd
+Í stílsíðu er mikilvægt er að hafa eftirfarandi grunnstillingu á öllum myndum 
+
+---
+
 # Myndvinnsla
 
 Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort vigur- (_vector_) eða rastamynd (_bitmap_). Yfirleitt á heitið „stafræn mynd“ við rastamynd. Stafrænar ljósmyndavélar og skannar geta búið til rastamyndir. Til að búa til einfalda vigurmynd getum við kóðað hana en oftast notum við hönnunarforrit til að teikna myndina. 

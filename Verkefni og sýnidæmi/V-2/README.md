@@ -23,3 +23,9 @@ Heimild á að vísa á is.wikipedia.org/Bítlarnir. Tengdu vefsíðuna við wik
 Stílaðu tagið a í stílsíðunni og einnig gervi klasana (pseudo class) a:visited, a:hover og a:active  
 
 **Vantar mynd hér**
+
+# Verkefni 2.3  CSS Grid dálkar
+
+Búðu til CSS stílsíðu og tengdu hana við **verkefni-2-3.html**, hafðu hana með sama skipulagi (layout) og sýnt er hér.  Notaðu CSS grid lausnir  til að búa til dálkana.   
+
+**Vantar mynd hér**

@@ -1,23 +1,13 @@
-# Myndir í bakgrunni vefsíðu
+# Verkefni 4 - í vinnslu
 
-```CSS
+### Leturgerð – Font family
 
-body {
-    background-color: #6ff;
-    background-image:url(flott-logo.svg);
-    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
-    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
-    background-position: center middle;
-    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
-    background-attachment: fixed; /* scroll */	
-}
-body {			
-	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
-            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
+Sækið leturgerðir á Google font vefsíðuna .  Setjið mismunandi stíla á fyrirsögn, millifyrirsagnir og meginmálsletur, tengla, lista.  Leturgerð og litaval á að hæfa efnisinnihaldi vefsíðunnar. Vefsíðan á að vera sveigjanleg, letur og myndir eiga að birtast eðlilega í öllum skjástærðum. 
+Skoðaðu hvernig val á leturgerð hefur áhrif á upplifun notandans.  
 
-}
+* Passar leturgerðin sem þú velur, málefninu?  
+* Hentar litaþemað sem þú hefur valið, málefninu?
 
-```
 
 ---
 
