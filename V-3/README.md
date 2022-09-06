@@ -10,29 +10,10 @@ Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað b
 Viðmið: [0 - 37em] – [37 - 48em] – [48 - 80em] – [80em +]. [Sjá dæmi](/V-3/img/readme.md)
 
 ### 3.2 Myndaröð 
+
 6 myndir eru vistaðar í sömu stærð og þeim raðað mismunandi upp í vefsíðu eftir breidd skjásins. [Sjá dæmi](/V-3/img/readme.md)
+
 ---
-
-#### Myndir í bakgrunni vefsíðu
-
-```CSS
-
-body {
-    background-color: #6ff;
-    background-image:url(flott-logo.svg);
-    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
-    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
-    background-position: center middle;
-    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
-    background-attachment: fixed; /* scroll */	
-}
-body {			
-	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
-            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
-
-}
-
-```
 
 #### Myndvinnsluforrit
 
@@ -88,3 +69,24 @@ Pdf skjal er form á skjali, sem er hannað til að standa fyrir önnur skjöl �
 * Teikningar og firmamerki eru unnin í vektorteikniforitum eins og _Adobe Illustrator, InkScape og Corel Draw_. 
 
 Athugið að þetta **er ekki** tæmandi listi yfir myndgerðir sem hægt er að vinna með og yfirfæra í myndvinnsluforritum.
+
+#### Myndir í bakgrunni vefsíðu
+
+```CSS
+
+body {
+    background-color: #6ff;
+    background-image:url(flott-logo.svg);
+    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
+    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
+    background-position: center middle;
+    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
+    background-attachment: fixed; /* scroll */	
+}
+body {			
+	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
+            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
+
+}
+
+```
