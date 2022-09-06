@@ -2,6 +2,11 @@
 
 ## Java Script
 
-* [JavaScript in 1 hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) - **Ath! að sleppa Node.js kaflanum, 13:52 - 16:14.**
 
-* [Javascript tutorial](https://www.guru99.com/interactive-javascript-tutorials.html)
+### Video 
+
+* [Getting Started With Javascript | Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=2nZiB1JItbY&list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ) 
+
+### Vefsíða
+
+* [Javascript tutorials](https://www.guru99.com/interactive-javascript-tutorials.html)
