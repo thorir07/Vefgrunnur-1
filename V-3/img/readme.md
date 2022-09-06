@@ -1,4 +1,4 @@
-## Sýnidæmi V. 2.2
+## Sýnidæmi V. 3.1 & 3.2
 
 ## Forsíðumynd
 
@@ -15,7 +15,7 @@
 
 #### 1180px skjár
 ![mynd 52](/V-3/img/V52-1.jpg)
-#### 760px skjár
+#### 820px skjár
 ![mynd 52](/V-3/img/V52-2.jpg)
-#### 600px skjár
+#### 360px skjár
 ![mynd 52](/V-3/img/V52-3.jpg)
