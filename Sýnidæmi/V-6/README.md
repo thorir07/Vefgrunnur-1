@@ -1,20 +1,26 @@
-# Leturstillingar í CSS
+# Lokaverkefni
 
-```CSS
+## Hönnun vefsíðu á (notandi).github.io  
 
-body {
-    font-style: normal;      /* italic , obligue */
-    font-weight: normal;     /* bold , 100 - 900 */
-    font-size: 1em;          /* 1px , 1rem , 100% */
-    line-height: 1.5;         /* tekur mið af einingunni sem er á font-size, staðlað 1.3 */
-    font-family: Helvetica, sans-serif; 
-    /* vafrinn tekur Helvetica ef það er til, annars system font (sans-serif) */ 
-}
+Github býður viðskiptavinum sínum að búa til vef sem tengist reikningi þeirra. Eina sem þarf að gera er að virkja veftenginguna í Github notendastillingum (Settings). 
 
-/* hér er öllum stílum sópað saman í eina skipun "font:"*/
-body {
-    font:italic bold 100%/120% Georgia, Times, serif;
-    /*font-style, -weight, -size/-lineheight -family */
-}
+Stofnaðu geymslu (repository) á Github reikningi þínum sem þú nefnir sama nafni og reikninginn þinn
+dæmi:  
+1.	Gitub reikningur: **Notandi** 
+2.	heiti geymslu: **notandi**.github.io (Passaðu upp á að haka við „include README.md“)
+3.	Í geymslunni ferðu í **stillingar (settings)** og velur **„Github pages – master“**
+Github býr til tengingu á milli geymslunnar og vefsvæðis á github.io 
+Til að byrja með er README.md forsíða vefsins
+4.	Nú getur þú skilað verkefni 7 á eigin vefsíðu.
+5.  Munið að skila öllum vinnugögnum í áfangageymsluna. 
 
-```
+<hr>
+
+Github vefsíður eru "Static" og bjóða ekki upp á neina gagnvirkni við notendur en það er hægt að kalla fram gagnvirka vefsíðu í &lt;iframe> glugga í Github vef, sjá  [dæmi um póstform hér](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
+
+<hr>
+
+Lokaverkefni sem aðrir nemendur hafa gert í VEFÞ1VG
+
+* [Tölvuleikjasagan](https://vefgrunnur.github.io/tolvuleikir/2020.html)
+
