@@ -1,29 +1,33 @@
-# Vefgrunnur
-HTML og CSS fyrir grunnskólanemendur
+# Inngangur að vefforritun
+
 
 ## Námsáætlun
 
-1. HTML 
-   * Kynning á Visual Studio Code 
+1. Uppsetning vefþróunarsvæðis
+   * Git og Github
+   * Uppsetning á Visual Studio Code    
+2. HTML og CSS 
    * HTML vefsíða búin til
-2. CSS stílsíða
    * Stílsíða tengd við vefsíðu
-   * Stílar 
-   * Box módelið
-3. Skipulag vefsíðu 
-   * ```display:flex```
-   * ```display:grid``` 
-4. Myndvinnsla
+   * Skipulag vefsíðu 
+     * ```display:flex```
+     * ```display:grid``` 
+3. Myndvinnsla
    * myndir unnar í Photopea fyrir vefsíðu 
    * myndir settar í vefsíðu
    * Skjáviðmið ```@media and (min-width:...)```  myndir aðlagast mismunandi skjástærðum
-5. Leturval og margmiðlunarefni
+4. Leturval og margmiðlunarefni
    * Leturgerð valin frá [fonts.google.com](https://fonts.google.com/)
    * Hljóðskrá &lt;audio&gt; 
    * kvikmynd &lt;video&gt; (_Youtube_)
    * kort
    * Vefsíða birt á github.io/[nafn notanda]/
-6. Vefforritun
+5. JavaScript kynning
+    * Hvað er JS?
+    * JS æfingar
+6. Uppsetnig vefs á Internetið
+    * vefur settur upp á Github.io
+    * kynning á fljótandi hönnun með Jekill
 
 
 ## Kennslufyrirkomulag
