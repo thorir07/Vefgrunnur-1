@@ -1,13 +1,30 @@
-# Verkefni 2.1
+## Verkefni 2.1
 
-Búðu til HTML vefsíðu og settu [texta sem er hér](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og myndirnar hér að neðan sýna.  Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
+Búðu til HTML vefsíðu og settu [texta sem er hér](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og myndin sýnir hér að neðan eftir að búið er að setja stíla á tögin.
 
-```
+Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
+
+```HTML
+    
+<!DOCTYPE html>
+<html lang="is">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verkefni 2</title>
+</head>
+<body>
+    <!--notaðu eftirfarandi tög í vefsíðunni-->
     <H1> til <H6>, 
-    <p>, <em>, <strong>, 
+    <p>, <blockqoute> 
+    <em>, <strong>, 
     <sub>, <sup>, 
     <ul>, <ol>, <li>, 
-    <br> og <hr> 
+    <br> og <hr>    
+</body>
+</html>
+    
 ```
 
 ## Verkefni 2.2  
@@ -22,9 +39,9 @@ Heimild á að vísa á is.wikipedia.org/Bítlarnir. Tengdu vefsíðuna við wik
 
 Stílaðu tagið a í stílsíðunni og einnig gervi klasana (pseudo class) a:visited, a:hover og a:active  
 
-**Vantar mynd hér**
+![v.22, mynd 1]()  
 
-# Verkefni 2.3  CSS Grid dálkar
+## Verkefni 2.3  CSS Grid dálkar
 
 Búðu til **CSS** stílsíðu og tengdu hana við vefsíðuna [verkefni-2-3.html](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/verkefni-2-3.html), hafðu hana með sama skipulagi (layout) og [sýnt er hér](/img/).  Notaðu CSS grid lausnir  til að búa til dálkana.   
 
