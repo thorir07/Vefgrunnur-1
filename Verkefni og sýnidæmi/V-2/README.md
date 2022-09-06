@@ -1,6 +1,6 @@
 # Verkefni 2.1
 
-Búðu til HTML vefsíðu og settu texta sem er í  https://github.com/GJG/Vefgrunnur í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og myndirnar hér að neðan sýna.  Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
+Búðu til HTML vefsíðu og settu [texta sem er hér]() í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og myndirnar hér að neðan sýna.  Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
 
 ```
     <H1> til <H6>, 
