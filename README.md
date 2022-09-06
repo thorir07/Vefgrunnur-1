@@ -22,13 +22,12 @@
    * Hljóðskrá &lt;audio&gt; 
    * kvikmynd &lt;video&gt; (_Youtube_)
    * kort
-   * Vefsíða birt á github.io/[nafn notanda]/
 5. JavaScript kynning
     * Hvað er JS?
     * JS æfingar
 6. Uppsetnig vefs á Internetið
-    * vefur settur upp á Github.io
-    * kynning á fljótandi hönnun með Jekill
+   * Vefsíða birt á [user].github.io/
+   * kynning á fljótandi hönnun með Jekill
 
 
 ## Kennslufyrirkomulag
