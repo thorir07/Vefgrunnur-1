@@ -20,7 +20,7 @@ Viðmið: [0 - 37em] – [37 - 48em] – [48 - 80em] – [80em +]. [Sjá dæmi](
 * Photopea  er forrit (app) sem keyrir í vafra.
   * Myndir skornar:  Toolbar -> Crop Tool
   * Myndir settar í rétta stærð: Image -> Canvas size.
-* Þjöppun fyrir vef  í Photopea  -> Export -> .jpg eða .png
+  * Þjöppun fyrir vef  í Photopea  -> Export -> .jpg eða .png
 * Gimp er myndvinnsluforrit sem hægt er að hlaða inn í tölvuna þína ókeypis.
   * Myndir skornar: Tools -> Transform Tools -> Crop
   * Myndir settar í rétta stærð: Image -> scale image.
