@@ -1,6 +1,6 @@
 # Verkefni 2.1
 
-Búðu til HTML vefsíðu og settu [texta sem er hér](/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og myndirnar hér að neðan sýna.  Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
+Búðu til HTML vefsíðu og settu [texta sem er hér](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og myndirnar hér að neðan sýna.  Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
 
 ```
     <H1> til <H6>, 
@@ -26,6 +26,6 @@ Stílaðu tagið a í stílsíðunni og einnig gervi klasana (pseudo class) a:vi
 
 # Verkefni 2.3  CSS Grid dálkar
 
-Búðu til **CSS** stílsíðu og tengdu hana við vefsíðuna [verkefni-2-3.html](verkefni-2-3.html), hafðu hana með sama skipulagi (layout) og [sýnt er hér](/img/).  Notaðu CSS grid lausnir  til að búa til dálkana.   
+Búðu til **CSS** stílsíðu og tengdu hana við vefsíðuna [verkefni-2-3.html](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/verkefni-2-3.html), hafðu hana með sama skipulagi (layout) og [sýnt er hér](/img/).  Notaðu CSS grid lausnir  til að búa til dálkana.   
 
 **Vantar mynd hér**
