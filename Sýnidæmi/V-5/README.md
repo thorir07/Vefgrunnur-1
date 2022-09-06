@@ -1,20 +1,7 @@
-# Myndir í bakgrunni vefsíðu
+# Vefforritun
 
-```CSS
+## Java Script
 
-body {
-    background-color: #6ff;
-    background-image:url(flott-logo.svg);
-    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
-    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
-    background-position: center middle;
-    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
-    background-attachment: fixed; /* scroll */	
-}
-body {			
-	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
-            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
+* [JavaScript in 1 hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) - **Ath! að sleppa Node.js kaflanum, 13:52 - 16:14.**
 
-}
-
-```
+* [Javascript tutorial](https://www.guru99.com/interactive-javascript-tutorials.html)

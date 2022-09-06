@@ -48,5 +48,5 @@
 |Vika 6.| Verkefni 6 | 20% |
 | | Samtals | **100%** |
 
-## Bjargir
+## Bjargir 👍
 [Vefgrunnur-Wiki](https://github.com/GJG/Vefgrunnur/wiki)
