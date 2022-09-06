@@ -39,7 +39,7 @@ Heimild á að vísa á is.wikipedia.org/Bítlarnir. Tengdu vefsíðuna við wik
 
 Stílaðu tagið a í stílsíðunni og einnig gervi klasana (pseudo class) a:visited, a:hover og a:active  
 
-![v.22, mynd 1]()  
+[Sjá sýnidæmi hér](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/img/readme.md)  
 
 ## Verkefni 2.3  CSS Grid dálkar
 
