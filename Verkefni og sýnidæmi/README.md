@@ -1,4 +1,6 @@
-# Verkefnalýsingar - í vinnslu
+# Verkefnalýsingar 
+
+#### - í vinnslu
 
 1. verkefni. [Uppsetnig vefþróunarsvæðis](https://github.com/GJG/Vefgrunnur/wiki)
 1. verkefni. [HTML og CSS](V-2/README.md)

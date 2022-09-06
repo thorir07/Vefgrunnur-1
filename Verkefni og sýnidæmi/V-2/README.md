@@ -1,6 +1,6 @@
 ## Verkefni 2.1
 
-Búðu til HTML vefsíðu og settu [texta sem er hér](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og myndin sýnir hér að neðan eftir að búið er að setja stíla á tögin.
+Búðu til HTML vefsíðu og settu [texta sem er hér](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og [myndin sýnir hér](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-2/img/readme.md) eftir að búið er að setja stíla á tögin.
 
 Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
 
