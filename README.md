@@ -33,7 +33,7 @@
 ## Kennslufyrirkomulag
 
 * Nemendur vinna verkefnin í kennslutímum
-* Verkefnum er skilað í **Eigin Github geymslu (_Repository_) - Vefgrunnur/**
+* Verkefnum er skilað í **Eigin Github geymslu (_Repository_)**
 * Einkunn er gefin fyrir verkefnin í Innu
 
 ## Námsmat
@@ -44,8 +44,8 @@
 |Vika 2.| Verkefni 2 | 16% |
 |Vika 3.| Verkefni 3 | 16% |
 |Vika 4.| Verkefni 4 | 16% |
-|Vika 5.| Verkefni 5 | 20% |
-|Vika 6.| Verkefni 6 | 16% |
+|Vika 5.| Verkefni 5 | 16% |
+|Vika 6.| Verkefni 6 | 20% |
 | | Samtals | **100%** |
 
 ## Bjargir
