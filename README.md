@@ -22,7 +22,7 @@
    * Hljóðskrá &lt;audio&gt; 
    * kvikmynd &lt;video&gt; (_Youtube_)
    * kort
-5. [JavaScript] kynning](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-5/README.md)
+5. [JavaScript kynning](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-5/README.md)
     * Hvað er JS?
     * JS æfingar
 6. [Uppsetnig vefs á Internetið](/Verkefni%20og%20s%C3%BDnid%C3%A6mi/V-6/README.md)
