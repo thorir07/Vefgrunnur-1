@@ -9,4 +9,4 @@
 
 ### Verkefnaskil 
 
-* [Github áfangageymsla](https://github.com/22vg) 
+* Skilaðu öllum verkefnum í eigin Github geymslu (_repository_)
