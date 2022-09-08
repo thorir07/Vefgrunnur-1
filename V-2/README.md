@@ -1,6 +1,6 @@
 ## Verkefni 2.1
 
-Búðu til HTML vefsíðu og settu [texta sem er hér](/V-2/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann 
+Búðu til HTML vefsíðu og settu [texta sem er hér](/V-2/verkefni-2-1-texti.md) í HTML síðuna. Settu rétt HTML tög utan um textann þannig að vefsíðan líti út eins og [sýnt er hér](/V-2/img/readme.md)
 
 Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
 
@@ -27,7 +27,7 @@ Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til við
     
 ```  
 
-Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna sem þú gerðir í verkefni 2.1. Settu stíla á tögin þannig að vefsíðan sé með sama útliti og [myndin sýnir hér](/V-2/img/readme.md) eftir að búið er að setja stíla á tögin.  Þú getur valið aðra liti en hér eru sýndir.  
+Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna sem þú gerðir í verkefni 2.1. Settu stíla á tögin þannig að vefsíðan sé með sama útliti og [myndin sýnir hér](/V-2/img/readme.md#sýnidæmi-v-22) eftir að búið er að setja stíla á tögin.  Þú getur valið aðra liti en hér eru sýndir.  
 
 Heildarbreidd vefsíðunnar á að vera 50em (800px)
 
