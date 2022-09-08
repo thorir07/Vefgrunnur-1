@@ -39,6 +39,5 @@ Stílaðu tagið a í stílsíðunni og einnig gervi klasana (pseudo class) a:vi
 
 ## Verkefni 2.2  CSS Grid dálkar
 
-Búðu til **CSS** stílsíðu og tengdu hana við vefsíðuna [verkefni-2-3.html](/V-2/verkefni-2-3.html), hafðu hana með sama skipulagi (layout) og [sýnt er hér](/img/).  Notaðu CSS grid lausnir  til að búa til dálkana.   
+Búðu til **CSS** stílsíðu og tengdu hana við vefsíðuna [verkefni-2-3.html](/V-2/verkefni-2-3.html), hafðu hana með sama skipulagi (layout) og [sýnt er hér](/img/readme.md#sýnidæmi-v-23).  Notaðu [CSS grid lausnir](https://github.com/GJG/Vefgrunnur/wiki#skipulag-me%C3%B0-css-grindakerfi)  til að búa til dálkana.   
 
-**Vantar mynd hér**
