@@ -1,6 +1,6 @@
 ## Verkefni 2.1
 
-Búðu til HTML vefsíðu og settu [texta sem er hér](/V-2/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann þannig að vefsíðan sé með sama útliti og [myndin sýnir hér](/V-2/img/readme.md) eftir að búið er að setja stíla á tögin.
+Búðu til HTML vefsíðu og settu [texta sem er hér](/V-2/verkefni-2-1-texti.md) í HTML síðuna.  Settu rétt HTML tög utan um textann 
 
 Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.
 
@@ -25,15 +25,9 @@ Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til við
 </body>
 </html>
     
-```
+```  
 
-## Verkefni 2.2  
-
-Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna sem þú gerðir í verkefni 2.1.
-
-Settu stíla á tögin eins og sýnt er hér á mynd að neðan.  Þú getur valið aðra liti en hér eru sýndir.  Skiptu um leturgerð, notaðu sans-serif leturgerð
-
-[Sjá sýnidæmi hér](/V-2/img/readme.md) 
+Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna sem þú gerðir í verkefni 2.1. Settu stíla á tögin þannig að vefsíðan sé með sama útliti og [myndin sýnir hér](/V-2/img/readme.md) eftir að búið er að setja stíla á tögin.  Þú getur valið aðra liti en hér eru sýndir.  
 
 Heildarbreidd vefsíðunnar á að vera 50em (800px)
 
@@ -43,7 +37,7 @@ Stílaðu tagið a í stílsíðunni og einnig gervi klasana (pseudo class) a:vi
 
  
 
-## Verkefni 2.3  CSS Grid dálkar
+## Verkefni 2.2  CSS Grid dálkar
 
 Búðu til **CSS** stílsíðu og tengdu hana við vefsíðuna [verkefni-2-3.html](/V-2/verkefni-2-3.html), hafðu hana með sama skipulagi (layout) og [sýnt er hér](/img/).  Notaðu CSS grid lausnir  til að búa til dálkana.   
 
