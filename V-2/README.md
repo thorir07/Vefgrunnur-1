@@ -29,17 +29,19 @@ Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til við
 
 ## Verkefni 2.2  
 
-Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna sem þú gerðir í verkefni 1.1.
+Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna sem þú gerðir í verkefni 2.1.
 
 Settu stíla á tögin eins og sýnt er hér á mynd að neðan.  Þú getur valið aðra liti en hér eru sýndir.  Skiptu um leturgerð, notaðu sans-serif leturgerð
 
-Heildarbreidd vefsíðunnar á að vera 50 em (800px)
+[Sjá sýnidæmi hér](/V-2/img/readme.md) 
+
+Heildarbreidd vefsíðunnar á að vera 50em (800px)
 
 Heimild á að vísa á is.wikipedia.org/Bítlarnir. Tengdu vefsíðuna við wiki síðuna með því að búa til tengil með taginu &lt;a>.  
 
 Stílaðu tagið a í stílsíðunni og einnig gervi klasana (pseudo class) a:visited, a:hover og a:active  
 
-[Sjá sýnidæmi hér](/V-2/img/readme.md)  
+ 
 
 ## Verkefni 2.3  CSS Grid dálkar
 
